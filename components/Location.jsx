@@ -4,15 +4,11 @@ const F_JOST = 'var(--font-jost), Montserrat, sans-serif'
 const F_SANS = 'var(--font-sans), Open Sans, sans-serif'
 
 const locationItems = [
-  { name: 'Hinjawadi IT Park Phase 3', time: '1 Min' },
-  { name: 'Wipro Campus', time: '3 Min' },
-  { name: 'Infosys BPO', time: '5 Min' },
-  { name: 'Cognizant Hinjawadi', time: '5 Min' },
-  { name: 'D-Mart Hinjawadi', time: '5 Min' },
-  { name: 'Xion Mall', time: '8 Min' },
-  { name: 'Wakad', time: '10 Min' },
-  { name: 'Pune-Mumbai Expressway', time: '10 Min' },
-  { name: 'Aundh IT Park', time: '15 Min' },
+  { name: 'TCS Campus', time: '1 Min' },
+  { name: 'Tech Mahindra', time: '2 Min' },
+  { name: 'Pune Metro — Phase 3', time: '3 Min Walk' },
+  { name: 'Cognizant Campus', time: '5 Min' },
+  { name: 'Infosys Campus', time: '8 Min' },
   { name: 'Pimpri Railway Station', time: '18 Min' },
   { name: 'Pune Airport', time: '35 Min' },
 ]
@@ -141,7 +137,7 @@ const Location = () => {
                   color: '#fff', fontSize: '11px', fontFamily: F_JOST,
                   fontWeight: '700', letterSpacing: '0.04em'
                 }}>
-                  Hinjawadi Phase 3, Pune 411057
+                  Hinjawadi, Pimpri-Chinchwad, Pune 411057
                 </span>
               </div>
             </div>
