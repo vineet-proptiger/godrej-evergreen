@@ -11,7 +11,7 @@ const F_SANS = 'var(--font-sans), Open Sans, sans-serif'
 const F_JOST = 'var(--font-jost), Montserrat, sans-serif'
 const F_SERIF = 'var(--font-serif), Cormorant Garamond, serif'
 
-const PREVIEW_TEXT = `Experience the vibrancy of Evergreen living at Godrej Evergreen Square — set across 4 acres of beautifully landscaped grounds in Hinjawadi Phase 3, Pune, including 0.5 acres of immersive forest experience. A signature project by Godrej Properties, crafted for modern professionals who seek the perfect harmony of nature, comfort, and urban convenience.`
+const PREVIEW_TEXT = `Experience the vibrancy of Evergreen living at Godrej Evergreen Square — set across 4 acres of beautifully landscaped grounds in Hinjawadi Phase 3, Pune, including 0.5 acres of immersive forest experience.`
 
 const MORE_TEXT = ` The "Evergreen" in its name is not just a promise — it is a lived reality, where lush greenery, curated garden walks, and a forest canopy create a sanctuary amidst Pune's busiest IT corridor. Offering premium 2 & 3 BHK homes with world-class amenities, a premium clubhouse, swimming pool, and dedicated recreation zones. With possession expected in October 2030 and prices starting at ₹82  Lacs*, backed by Godrej Properties — established in 1990, India's first ISO-certified real estate developer now developing across 15+ cities covering 21.7 million square meters — this is where modern living meets everyday ease.`
 
