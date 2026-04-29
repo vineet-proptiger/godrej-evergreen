@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const base = 'https://godrejevergreensquarepune.in'
+  const base = 'https://godrej-evergreensquare.in'
 
   return [
     {

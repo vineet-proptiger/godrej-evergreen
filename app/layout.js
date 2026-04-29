@@ -50,11 +50,11 @@ export default function RootLayout({ children }) {
               "@type": "Article",
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://godrejevergreensquarepune.in/"
+                "@id": "https://godrej-evergreensquare.in/"
               },
               "headline": "Godrej Evergreen Square | New Launch Premium 2 & 3 BHK Homes — Hinjawadi Phase 3, Pune",
               "description": "Godrej Evergreen Square — Premium 2 & 3 BHK homes by Godrej Properties in Hinjawadi Phase 3, Pune. World-class amenities, green landscapes. Starting ₹82  Lacs*.",
-              "image": "https://godrejevergreensquarepune.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
+              "image": "https://godrej-evergreensquare.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
               "author": {
                 "@type": "Organization",
                 "name": "Proptiger Marketing Services Pvt Ltd",
