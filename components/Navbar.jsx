@@ -21,8 +21,8 @@ const ProjectLogo = () => (
   <img
     src={logoImages.tarc}
     alt="Godrej Evergreen Square"
-    className="h-10 md:h-16 w-auto object-contain transition-all"
-    style={{ maxWidth: '250px' }}
+    className="h-12 md:h-20 w-auto object-contain transition-all"
+    style={{ maxWidth: '280px' }}
   />
 )
 
