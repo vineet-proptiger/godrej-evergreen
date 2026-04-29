@@ -33,7 +33,7 @@ const nephilm = localFont({
 
 export const metadata = {
   title: 'Godrej Evergreen Square Hinjawadi | Premium 2 & 3 BHK Homes — Hinjawadi Phase 3, Pune',
-  description: 'Godrej Evergreen Square — Premium 2 & 3 BHK homes by Godrej Properties in Hinjawadi Phase 3, Pune. World-class amenities, lush green landscapes, walking distance to IT Park. Starting ₹82 Lakh*.',
+  description: 'Godrej Evergreen Square — Premium 2 & 3 BHK homes by Godrej Properties in Hinjawadi Phase 3, Pune. World-class amenities, lush green landscapes, walking distance to IT Park. Starting ₹82  Lacs*.',
 }
 
 export default function RootLayout({ children }) {
@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
                 "@id": "https://godrejevergreensquarepune.in/"
               },
               "headline": "Godrej Evergreen Square | New Launch Premium 2 & 3 BHK Homes — Hinjawadi Phase 3, Pune",
-              "description": "Godrej Evergreen Square — Premium 2 & 3 BHK homes by Godrej Properties in Hinjawadi Phase 3, Pune. World-class amenities, green landscapes. Starting ₹82 Lakh*.",
+              "description": "Godrej Evergreen Square — Premium 2 & 3 BHK homes by Godrej Properties in Hinjawadi Phase 3, Pune. World-class amenities, green landscapes. Starting ₹82  Lacs*.",
               "image": "https://godrejevergreensquarepune.in/_next/image?url=%2Fimages%2Fhero%2Fbanner1.webp&w=1200&q=75",
               "author": {
                 "@type": "Organization",

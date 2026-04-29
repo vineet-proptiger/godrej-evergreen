@@ -8,7 +8,7 @@ const units = [
   {
     type: "2 BHK Residences",
     size: "Carpet Area on Request*",
-    price: "₹82 Lakh*",
+    price: "₹82  Lacs*",
     oldPrice: null,
     btnText: "Get Cost Sheet",
     features: [

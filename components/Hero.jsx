@@ -196,7 +196,7 @@
 //               </p>
 //               {[
 //                 'Two Iconic Skyline Towers',
-//                 'Cascades Club – 1.6 Lakh* sq. ft.',
+//                 'Cascades Club – 1.6  Lacs* sq. ft.',
 //                 'A Fusion of Indo‑Japanese Artistry',
 //                 'A Rare Life Surrounded by Nature',
 //               ].map((item, i, arr) => (
@@ -564,7 +564,7 @@ export default function Hero({ setIsOpen }) {
               'Walkable to Hinjawadi IT Park — Phase 3',
               'Lush Green Landscape & Premium Clubhouse',
               'Smart Home Features & 24×7 Security',
-              'Homes Starting at ₹82 Lakh*',
+              'Homes Starting at ₹82  Lacs*',
             ].map((item, i) => (
               <div key={i} style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                 <span style={{ width: '4px', height: '4px', borderRadius: '50%', background: 'var(--color-gold)', flexShrink: 0, opacity: 0.8 }} />
@@ -587,7 +587,7 @@ export default function Hero({ setIsOpen }) {
                 Starting at
               </p>
               <p className="blink-price" style={{ fontFamily: F_JOST, fontSize: '32px', fontWeight: 600, color: 'var(--color-gold)', lineHeight: 1 }}>
-                ₹82 Lakh*
+                ₹82  Lacs*
               </p>
             </div>
 

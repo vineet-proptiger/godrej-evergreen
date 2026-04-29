@@ -20,7 +20,7 @@ const Footer = () => (
       </div>
       <p style={{ fontSize: '15px', color: '#bbb', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '32px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
-        Godrej Evergreen Square is a premium residential development by Godrej Properties, located in Hinjawadi Phase 3 — Pune's most prominent IT corridor. Offering thoughtfully designed 2 &amp; 3 BHK homes with world-class amenities, lush green landscapes, and seamless connectivity to major tech parks including Infosys, Wipro &amp; Cognizant. With possession expected in October 2030 and prices starting at ₹82 Lakh*, this is a rare opportunity to own a quality home backed by the 125+ year legacy of the Godrej brand.
+        Godrej Evergreen Square is a premium residential development by Godrej Properties, located in Hinjawadi Phase 3 — Pune's most prominent IT corridor. Offering thoughtfully designed 2 &amp; 3 BHK homes with world-class amenities, lush green landscapes, and seamless connectivity to major tech parks including Infosys, Wipro &amp; Cognizant. With possession expected in October 2030 and prices starting at ₹82  Lacs*, this is a rare opportunity to own a quality home backed by the 125+ year legacy of the Godrej brand.
       </p>
       {/* <div style={{ borderTop: '1px solid #333', marginBottom: '24px' }} /> */}
     </div>
